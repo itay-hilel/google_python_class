@@ -54,16 +54,11 @@ Usage: python2 my_copyspecial.py [--todir dir][--tozip zipfile] dir [dir ...]
 Usage: python3 my_logpuzzle.py [--todir dir] file
   
 
-
-
-
-
-  
 Hope this repo will help you to assess my coding skills or will be just fun for you to play with.  
 
 
 
 --------------------------------------------
-Fill free to contact me via nktn.lx@gmal.com  
-Follow me on twitter: @nktn_lx  
-And here on github: github.com/nktnlx  
+Fill free to contact me via
+- LinkedIn: [@ItayHilel](https://www.linkedin.com/in/itay-hilel/)
+- E-mail: Hilelitay@gmail.com
